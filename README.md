@@ -2,7 +2,7 @@
 <!--
 **Cintia0528/Cintia0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---><h1 align="center">Hi 👋, I'm Cintia Serban</h1>
+--><h1 align="center">Szia 👋, I'm Cintia Serban</h1>
 - 🔭 I’m currently working on **Final Project Name Here**
 
 - 🌱 I’m currently learning **Data Science**
@@ -17,7 +17,7 @@
 🌍 Globetrotting Strategic Thinker | Merging Management and Data Science 💼
 </p>
 
-Hello there! I'm Cintia, a strategic mind who thrives on challenges,currently as an aspiring Data Scientist. 
+Hello there! I'm Cintia, a strategic mind who thrives on challenges, currently as an aspiring Data Scientist. 
 
 With 6 years of experience in consulting and management, including IT Project Management, and supported by my business administration degree, I've nurtured a passion for consistently pushing my limits to discover where the journey takes me.
 
