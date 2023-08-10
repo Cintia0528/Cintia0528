@@ -2,16 +2,16 @@
 <!--
 **Cintia0528/Cintia0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---><h1 align="center">Szia 👋, I'm Cintia Serban</h1>
+--><h1 align="center">Szia 👋, I'm Cintia </h1>
 - 🔭 I’m currently working on **Final Project Name Here**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m interested in learning more about **Prediction Algorithms**
 
 - 👨‍💻 My LinkedIn profile [coming soon](coming soon)
 
 - 📫 How to reach me **ubp0528@gmail.com**
   
-- 💰I am passionate about prediction algorithms
+- 🪂 Fun fact about me: I am an **adrenaline junkie.**
 
 <h3 align="left">Who am I:</h3>
 🌍 Globetrotting Strategic Thinker | Merging Management and Data Science 💼
@@ -19,7 +19,7 @@
 
 Hello there! I'm Cintia, a strategic mind who thrives on challenges, currently as an aspiring Data Scientist. 
 
-With 6 years of experience in consulting and management, including IT Project Management, and supported by my business administration degree, I've nurtured a passion for consistently pushing my limits to discover where the journey takes me.
+With 6 years of experience in consulting and management, including IT Project Management, and supported by my business administration and management degree, I've nurtured a passion for consistently pushing my limits to discover where the journey takes me.
 
 My passion for numbers and solving puzzles is rivaled only by my passion for fostering teamwork. With experiences spanning 7 countries on 3 continents, I bring a cultural sensitivity and adaptability to the table.
 
