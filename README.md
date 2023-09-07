@@ -7,7 +7,7 @@
 
 - 🌱 I’m interested in learning more about **Prediction Algorithms**
 
-- 👨‍💻 My LinkedIn profile [coming soon](coming soon)
+- 👨‍💻 Check out my LinkedIn profile [here](https://www.linkedin.com/in/cintiaserban-asdfas12454/)
 
 - 📫 How to reach me **ubp0528@gmail.com**
   
