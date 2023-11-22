@@ -21,7 +21,7 @@ Hello there! I'm Cintia, a strategic mind who thrives on challenges, currently a
 
 With 6 years of experience in consulting and management, including IT Project Management, and supported by my business administration and management degree, I've nurtured a passion for consistently pushing my limits to discover where the journey takes me.
 
-My passion for numbers and solving puzzles is rivaled only by my passion for fostering teamwork. With experiences spanning 7 countries on 3 continents, I bring a cultural sensitivity and adaptability to the table.
+My passion for numbers and solving puzzles is rivaled only by my passion for fostering teamwork. With experiences spanning 8 countries on 3 continents, I bring a cultural sensitivity and adaptability to the table.
 
 Join me as I embark on the journey to bridge the worlds of management and data science, aiming to apply my diverse experiences in driving innovative, data-driven decisions. Let's explore these exciting horizons together! 🌟
 
