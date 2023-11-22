@@ -5,7 +5,7 @@
 --><h1 align="center">Szia 👋, I'm Cintia </h1>
 - 🔭 I’m currently working on **Final Project Name Here**
 
-- 🌱 I’m interested in learning more about **Prediction Algorithms**
+- 🌱 I’m interested in learning more about **Time Series Analysis and Recommender Systems**
 
 - 👨‍💻 Check out my LinkedIn profile [here](https://www.linkedin.com/in/cintiaserban-asdfas12454/)
 
