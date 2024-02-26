@@ -3,7 +3,7 @@
 **Cintia0528/Cintia0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --><h1 align="center">Szia 👋, I'm Cintia </h1>
-- 🔭 I’m currently working on **Final Project Name Here**
+- 🔭 I’m currently working on **Predicting NFL Player Salaries and Sentiment Analysis of Tweets**
 
 - 🌱 I’m interested in learning more about **Time Series Analysis and Recommender Systems**
 
