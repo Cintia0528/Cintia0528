@@ -5,7 +5,7 @@
 --><h1 align="center">Szia 👋, I'm Cintia </h1>
 - 🔭 I’m currently working on **Predicting NFL Player Salaries and Sentiment Analysis of Tweets**
 
-- 🌱 I’m interested in learning more about **Time Series Analysis and Recommender Systems**
+- 🌱 I’m interested in learning more about **Time Series Analysis and LLMs**
 
 - 👨‍💻 Check out my LinkedIn profile [here](https://www.linkedin.com/in/cintiaserban-asdfas12454/)
 
