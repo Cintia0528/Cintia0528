@@ -3,9 +3,9 @@
 **Cintia0528/Cintia0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --><h1 align="center">Szia 👋, I'm Cintia </h1>
-- 🔭 I’m currently working on **Predicting NFL Player Salaries and Sentiment Analysis of Tweets**
+- 🔭 I’m currently working on **Big Data Analytics with PySpark, AWS, Docker, Spark, and Hadoop**
 
-- 🌱 I’m interested in learning more about **Time Series Analysis and LLMs**
+- 🌱 I’m interested in learning more about **Graph Neural Networks & Knowledge Graphs**
 
 - 👨‍💻 Check out my LinkedIn profile [here](https://www.linkedin.com/in/cintiaserban-asdfas12454/)
 
@@ -17,13 +17,9 @@
 🌍 Globetrotting Strategic Thinker | Merging Management and Data Science 💼
 </p>
 
-Hello there! I'm Cintia, a strategic mind who thrives on challenges, currently as an aspiring Data Scientist. 
+Hi there! I'm Cintia, a strategic thinker with a passion for solving complex problems through data. With 6+ years of experience in consulting, IT project management, and training, I thrive on breaking down challenges into actionable insights.
 
-With 6 years of experience in consulting and management, including IT Project Management, and supported by my business administration and management degree, I've nurtured a passion for consistently pushing my limits to discover where the journey takes me.
-
-My passion for numbers and solving puzzles is rivaled only by my passion for fostering teamwork. With experiences spanning 8 countries on 3 continents, I bring a cultural sensitivity and adaptability to the table.
-
-Join me as I embark on the journey to bridge the worlds of management and data science, aiming to apply my diverse experiences in driving innovative, data-driven decisions. Let's explore these exciting horizons together! 🌟
+My background spans 8 countries across 3 continents, where I’ve honed my ability to adapt, collaborate, and lead in diverse environments. I’m now channeling this global experience into big data and machine learning, bridging the worlds of business strategy and data science. 🌟
 
 <p align="left">
 </p>
